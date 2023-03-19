@@ -2,10 +2,10 @@
 
 ## 1.1. Learning Plan Overview:
 
-- Front-end development
-- Back-end development (Python-based)
-- Data handling and databases
-- Version control
+- [ ] Front-end development
+- [ ] Back-end development (Python-based)
+- [ ] Data handling and databases
+- [ ] Version control
 
 ## 1.2. Front-end Development:
 
